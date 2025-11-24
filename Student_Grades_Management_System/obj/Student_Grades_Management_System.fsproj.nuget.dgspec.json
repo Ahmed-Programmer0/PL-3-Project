@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\PL_3_PROJECT_BY_F#\\PL-3-Project\\Student_Grades_Management_System\\Student_Grades_Management_System.fsproj": {}
+  },
+  "projects": {
+    "C:\\PL_3_PROJECT_BY_F#\\PL-3-Project\\Student_Grades_Management_System\\Student_Grades_Management_System.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PL_3_PROJECT_BY_F#\\PL-3-Project\\Student_Grades_Management_System\\Student_Grades_Management_System.fsproj",
+        "projectName": "Student_Grades_Management_System",
+        "projectPath": "C:\\PL_3_PROJECT_BY_F#\\PL-3-Project\\Student_Grades_Management_System\\Student_Grades_Management_System.fsproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\PL_3_PROJECT_BY_F#\\PL-3-Project\\Student_Grades_Management_System\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\9.0.203\\FSharp\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[9.0.202, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
