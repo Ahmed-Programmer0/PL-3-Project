@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cgZ41Ys7nR0=",
+  "success": true,
+  "projectFilePath": "C:\\PL_3_PROJECT_BY_F#\\PL-3-Project\\Student_Grades_Management_System\\Student_Grades_Management_System.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.core\\9.0.202\\fsharp.core.9.0.202.nupkg.sha512"
+  ],
+  "logs": []
+}
