@@ -26,11 +26,11 @@ F# is a Functional Programming Language
 
 ## Our Project is Student Grades Management System
 
-#### Description
+### Description
 
 We will create a mini student information system with reports, averages, pass/fail tracking , and admin/viewer roles
 
-#### The Features That Are Require From Us In This Project 
+### The Features That Are Require From Us In This Project 
 
 1- Add/edit/delete student records
 
@@ -41,4 +41,6 @@ We will create a mini student information system with reports, averages, pass/fa
 4- Role-based access (Admin/Viewer)
 
 5- Json save/load
+
+
 
