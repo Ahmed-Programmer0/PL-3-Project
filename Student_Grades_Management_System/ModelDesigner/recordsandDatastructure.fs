@@ -16,17 +16,6 @@ type Admin = {
                 AdminPassword: string
 }
 
-
-
-// The Discriminted Union Of AppreciationWord
-type WordOfAppreciation = 
-                        | A of excellent : string
-                        | B of veryGood  : string
-                        | C of Good      : string
-                        | D of acceptable: string
-                        | F of failed    : string
-
-
 // Student Record With Labels And Their Types
 // Note : Courses : list<Course> means That Courses holds a List of Course Objects defined Above 
 type Student = {
@@ -38,8 +27,8 @@ type Student = {
                 yearInCollege : int;
                 Courses : list<Course>;
                 Gpa : float;
-                TotalGrade : float;
+                TotalGrade : int;
                 Appreciation : char;
-                AppreciationWord : WordOfAppreciation
+                AppreciationWord : string
 }
 
