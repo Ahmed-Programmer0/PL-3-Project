@@ -1,0 +1,52 @@
+{
+  "Admins": [
+    {
+      "AdminName": "Ahmed Wael",
+      "NationalId": 304021,
+      "AdminEmail": "ahmed@gmail.com",
+      "AdminPassword": "12345"
+    },
+    {
+      "AdminName": "Ziad Mohamed",
+      "NationalId": 304022,
+      "AdminEmail": "ziad@gmail.com",
+      "AdminPassword": "32145"
+    },
+    {
+      "AdminName": "Mohamed Hany",
+      "NationalId": 302112,
+      "AdminEmail": "hany@gmail.com",
+      "AdminPassword": "32145"
+    },
+    {
+      "AdminName": "Khatab",
+      "NationalId": 209134,
+      "AdminEmail": "khattab@gmail.com",
+      "AdminPassword": "321465"
+    },
+    {
+      "AdminName": "Mohamed AbdAlwahb",
+      "NationalId": 209871,
+      "AdminEmail": "abdelwahb@gmail.com",
+      "AdminPassword": "34567"
+    },
+    {
+      "AdminName": "Yusuf Maged",
+      "NationalId": 2061347,
+      "AdminEmail": "maged@gmail.com",
+      "AdminPassword": "233445"
+    },
+    {
+      "AdminName": "Omar Atef",
+      "NationalId": 213345,
+      "AdminEmail": "professor@gmail.com",
+      "AdminPassword": "590761"
+    },
+    {
+      "AdminName": "Maher",
+      "NationalId": 309087,
+      "AdminEmail": "maher@gmail.com",
+      "AdminPassword": "123456"
+    }
+  ]
+}
