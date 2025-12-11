@@ -7,6 +7,7 @@ type Course = {
                 CourseAppreciation:char
 }
 
+
 // Admin Record With Labels and Their Types
 type Admin = {
                 AdminName : string;
@@ -15,12 +16,6 @@ type Admin = {
                 AdminPassword: string
 }
 
-let Admin ={
-                AdminName = "Ahmed Wael";
-                NationalId= 40906070;
-                AdminEmail = "ahmed@gmail.com";
-                AdminPassword = "12345"
-}
 
 
 // The Discriminted Union Of AppreciationWord
@@ -31,6 +26,7 @@ type WordOfAppreciation =
                         | D of acceptable: string
                         | F of failed    : string
 
+
 // Student Record With Labels And Their Types
 // Note : Courses : list<Course> means That Courses holds a List of Course Objects defined Above 
 type Student = {
@@ -40,10 +36,10 @@ type Student = {
                 Email : string;
                 Password : string;
                 yearInCollege : int;
-                DateOfEnteringCollege : string;
                 Courses : list<Course>;
                 Gpa : float;
                 TotalGrade : int;
                 Appreciation : char;
                 AppreciationWord : WordOfAppreciation
 }
+
