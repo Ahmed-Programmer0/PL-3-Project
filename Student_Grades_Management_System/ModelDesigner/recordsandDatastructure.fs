@@ -38,7 +38,7 @@ type Student = {
                 yearInCollege : int;
                 Courses : list<Course>;
                 Gpa : float;
-                TotalGrade : int;
+                TotalGrade : float;
                 Appreciation : char;
                 AppreciationWord : WordOfAppreciation
 }
