@@ -1,0 +1,148 @@
+{
+  "Courses1st": [
+    {
+      "CourseCode": "cs1022",
+      "CourseName": "Physics",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "Ai1022",
+      "CourseName": "English1",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "Is1022",
+      "CourseName": "Logic Design",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "cs1022",
+      "CourseName": "Data Communication",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "cs1022",
+      "CourseName": "PL2",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    }
+  ],
+  "Courses2nd": [
+    {
+      "CourseCode": "cs231",
+      "CourseName": "Economics",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "is231",
+      "CourseName": "Securiy",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "IT221",
+      "CourseName": "Infomation Technology",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "cs224",
+      "CourseName": "Artifical Inelligence",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "cs223",
+      "CourseName": "Machine Learning",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "AI233",
+      "CourseName": "Parallel Processing",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    }
+  ],
+  "Courses3rd": [
+    {
+      "CourseCode": "CS245",
+      "CourseName": "Computer Science",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "IS233",
+      "CourseName": "Internet Technology",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "CS111",
+      "CourseName": "Cyber Security",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "IS333",
+      "CourseName": "Information Quality",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "10221",
+      "CourseName": "Database2",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "IS100",
+      "CourseName": "Project Management",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    }
+  ],
+  "Courses4th": [
+    {
+      "CourseCode": "IT231",
+      "CourseName": "Information Security",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "IS225",
+      "CourseName": "Cryptography",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "CS220",
+      "CourseName": "PL1",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "IS229",
+      "CourseName": "DataBase1",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "10221",
+      "CourseName": "Concepts Of Programming",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    },
+    {
+      "CourseCode": "10221",
+      "CourseName": "Data Science",
+      "CourseGrade": 100,
+      "CourseAppreciation": "A"
+    }
+  ]
+}
