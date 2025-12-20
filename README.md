@@ -39,7 +39,8 @@ We will create a mini student information system with reports, averages, pass/fa
 3- Class Statistics (highest ,lowest, pass rate)
 
 4- Role-based access (Admin/Viewer)
-
+# End 
+# Best wishes for final
 5- Json save/load
 
 
